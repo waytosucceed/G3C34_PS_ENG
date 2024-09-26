@@ -1,0 +1,244 @@
+{
+  "heading": "Past Perfect",
+  "topics": [
+    {
+      "heading": "Past Perfect",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which sentence uses the past perfect tense?",
+          "options": [
+            { "text": "I ate breakfast before school." },
+            { "text": "I had eaten breakfast before school." },
+            { "text": "I was eating breakfast before school." },
+            { "text": "I have eaten breakfast before school." }
+          ],
+          "answer": 1,
+          "explanation": "The past perfect tense uses 'had' + the past participle of the verb. It shows an action that happened before another past action."
+        },
+        {
+          "questionNo": 2,
+          "question": "Fill in the blank: \"By the time we arrived, the movie ____ (start).\"",
+          "options": [
+            { "text": "started" },
+            { "text": "had started" },
+            { "text": "had starting" },
+            { "text": "had been started" }
+          ],
+          "answer": 1,
+          "explanation": "We use 'had started' to show that the movie began before we arrived. This is the correct structure for past perfect tense."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which sentence is correct?",
+          "options": [
+            { "text": "The train had left before we reached the station." },
+            { "text": "The train has left before we reached the station." },
+            { "text": "The train had leaved before we reached the station." },
+            { "text": "The train have left before we reached the station." }
+          ],
+          "answer": 0,
+          "explanation": "This sentence correctly uses 'had' + the past participle 'left' to show an action (train leaving) that happened before another past action (reaching the station)."
+        },
+        {
+          "questionNo": 4,
+          "question": "What is the past perfect form of 'see'?",
+          "options": [
+            { "text": "seed" },
+            { "text": "saw" },
+            { "text": "had saw" },
+            { "text": "had seen" }
+          ],
+          "answer": 3,
+          "explanation": "The past perfect form uses 'had' + the past participle. For 'see,' the past participle is 'seen.'"
+        },
+        {
+          "questionNo": 5,
+          "question": "Choose the correct sentence:",
+          "options": [
+            { "text": "She had never ride a horse before yesterday." },
+            { "text": "She had never ridden a horse before yesterday." },
+            { "text": "She had never rode a horse before yesterday." },
+            { "text": "She had never rided a horse before yesterday." }
+          ],
+          "answer": 1,
+          "explanation": "'Ridden' is the correct past participle of 'ride.' This sentence correctly uses 'had' + 'never' + past participle to express a lack of experience before a specific time."
+        },
+        {
+          "questionNo": 6,
+          "question": "Fill in the blank: \"The flowers ____ (die) by the time we watered them.\"",
+          "options": [
+            { "text": "died" },
+            { "text": "had died" },
+            { "text": "was died" },
+            { "text": "have died" }
+          ],
+          "answer": 1,
+          "explanation": "We use 'had died' to show that the flowers died before we watered them. This is the correct structure for past perfect tense."
+        },
+        {
+          "questionNo": 7,
+          "question": "\"They had went to the park\" is the correct form of Past perfect tense.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 1,
+          "explanation": "The correct form should be 'They had gone to the park.' 'Gone' is the past participle of 'go' used in the past perfect tense."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which sentence is in the past perfect tense?",
+          "options": [
+            { "text": "I was writing a letter." },
+            { "text": "I wrote a letter yesterday." },
+            { "text": "I had written a letter before dinner." },
+            { "text": "I have written a letter." }
+          ],
+          "answer": 2,
+          "explanation": "This sentence uses 'had' + the past participle 'written,' which is the correct structure for the past perfect tense."
+        },
+        {
+          "questionNo": 9,
+          "question": "Fill in the blank: \"By noon, it ____ (stop) raining.\"",
+          "options": [
+            { "text": "stopped" },
+            { "text": "had stopped" },
+            { "text": "was stopped" },
+            { "text": "has stopped" }
+          ],
+          "answer": 1,
+          "explanation": "We use 'had stopped' to show that the rain ended before the specific time (noon). This is the correct structure for past perfect tense."
+        },
+        {
+          "questionNo": 10,
+          "question": "\"They had ate lunch\" is the correct form of Past perfect tense.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 1,
+          "explanation": "The correct form should be 'They had eaten lunch.' 'Eaten' is the past participle of 'eat' used in the past perfect tense."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which word completes this past perfect sentence? \"It ____ rained all day before we went out.\"",
+          "options": [
+            { "text": "have" },
+            { "text": "has" },
+            { "text": "had" },
+            { "text": "was" }
+          ],
+          "answer": 2,
+          "explanation": "We use 'had' in the past perfect tense. The full sentence 'It had rained all day before we went out' shows an action that was completed before another past action."
+        },
+        {
+          "questionNo": 12,
+          "question": "Fill in the blank: \"The dog ____ (bury) its bone before we found it.\"",
+          "options": [
+            { "text": "had burying" },
+            { "text": "had buried" },
+            { "text": "had bury" },
+            { "text": "had been buried" }
+          ],
+          "answer": 1,
+          "explanation": "We use 'had buried' to show that the dog buried its bone before we found it. This is the correct structure for past perfect tense."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which sentence uses the past perfect tense correctly?",
+          "options": [
+            { "text": "We were finished our homework before dinner." },
+            { "text": "We have finish our homework before dinner." },
+            { "text": "We had finished our homework before dinner." },
+            { "text": "We has finished our homework before dinner." }
+          ],
+          "answer": 2,
+          "explanation": "This sentence correctly uses 'had' + the past participle 'finished' to show an action completed before another past event (dinner)."
+        },
+        {
+          "questionNo": 14,
+          "question": "What is the past perfect form of 'break'?",
+          "options": [
+            { "text": "breaked" },
+            { "text": "broke" },
+            { "text": "had broke" },
+            { "text": "had broken" }
+          ],
+          "answer": 3,
+          "explanation": "The past perfect form uses 'had' + the past participle. For 'break,' the past participle is 'broken.'"
+        },
+        {
+          "questionNo": 15,
+          "question": "Fill in the blank: \"They ____ (not / hear) the news before they came to school.\"",
+          "options": [
+            { "text": "had not hear" },
+            { "text": "had not heard" },
+            { "text": "had not hearing" },
+            { "text": "have not heard" }
+          ],
+          "answer": 1,
+          "explanation": "We use 'had not heard' to show that they didn't hear the news before coming to school."
+        },
+        {
+          "questionNo": 16,
+          "question": "\"She had sang in the choir before the concert\" is the correct form of Past perfect tense.",
+          "options": [
+            { "text": "True" },
+            { "text": "False" }
+          ],
+          "answer": 1,
+          "explanation": "The past participle of 'sing' is 'sung.' The correct form is 'She had sung in the choir before the concert.'"
+        },
+        {
+          "questionNo": 17,
+          "question": "Fill in the blank: \"The children ____ (build) a sandcastle before the tide came in.\"",
+          "options": [
+            { "text": "had builded" },
+            { "text": "had build" },
+            { "text": "has built" },
+            { "text": "had built" }
+          ],
+          "answer": 3,
+          "explanation": "We use 'had built' to show that the children built the sandcastle before the tide came in. This is the correct structure for past perfect tense."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word completes this past perfect sentence? \"She ____ learned to swim before summer camp.\"",
+          "options": [
+            { "text": "have" },
+            { "text": "has" },
+            { "text": "had" },
+            { "text": "was" }
+          ],
+          "answer": 2,
+          "explanation": "We use 'had' in the past perfect tense. The full sentence 'She had learned to swim before summer camp' shows an action completed before another past event."
+        },
+        {
+          "questionNo": 19,
+          "question": "Fill in the blank: \"The movie ____ (start) by the time we arrived at the cinema.\"",
+          "options": [
+            { "text": "had starting" },
+            { "text": "had started" },
+            { "text": "had start" },
+            { "text": "have started" }
+          ],
+          "answer": 1,
+          "explanation": "We use 'had started' to show that the movie began before we arrived at the cinema. This is the correct structure for past perfect tense."
+        },
+        {
+          "questionNo": 20,
+          "question": "They _____ (arrive) at the station before the train left.",
+          "options": [
+            { "text": "had arrived" },
+            { "text": "had arriving" },
+            { "text": "have arrived" },
+            { "text": "arrived" }
+          ],
+          "answer": 0,
+          "explanation": "'Had arrived' shows that they reached the station before the train left."
+        }
+      ]
+    }
+  ]
+}
